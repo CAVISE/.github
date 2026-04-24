@@ -13,11 +13,9 @@
 <br />
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-CAVISE-181717?logo=github)](https://github.com/CAVISE)
-[![Simulation](https://img.shields.io/badge/Simulation-CARLA%20%7C%20Artery%20%7C%20OpenCDA-blue)](#)
-[![Focus](https://img.shields.io/badge/Focus-Connected%20%26%20Automated%20Vehicles-green)](#)
-[![Workflow](https://img.shields.io/badge/Workflow-Reproducible%20Research-orange)](#)
-
+[![Stars](https://img.shields.io/github/stars/CAVISE/CAVISE?style=flat&label=Stars&logo=github)](https://github.com/CAVISE/CAVISE/stargazers)
+[![Issues](https://img.shields.io/github/issues/CAVISE/CAVISE?style=flat&label=Issues&logo=github)](https://github.com/CAVISE/CAVISE/issues)
+[![Docs](https://img.shields.io/badge/Docs-Documentation-blue?style=flat&logo=readthedocs)]()
 
 </div>
 
@@ -67,6 +65,24 @@ In progress...
     </td>
     <td width="33%">
       <strong>Language:</strong> C++
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td width="33%">
+      <a href="https://github.com/CAVISE/CAVISE/stargazers">
+        <img src="https://img.shields.io/github/stars/CAVISE/CAVISE?style=flat&label=Stars&logo=github" alt="CAVISE stars">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/CAVISE/OpenCDA/stargazers">
+        <img src="https://img.shields.io/github/stars/CAVISE/OpenCDA?style=flat&label=Stars&logo=github" alt="OpenCDA stars">
+      </a>
+    </td>
+    <td width="33%">
+      <a href="https://github.com/CAVISE/artery/stargazers">
+        <img src="https://img.shields.io/github/stars/CAVISE/artery?style=flat&label=Stars&logo=github" alt="Artery stars">
+      </a>
     </td>
   </tr>
 </table>
