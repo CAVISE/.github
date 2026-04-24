@@ -38,18 +38,36 @@ In progress...
   <tr align="center">
     <td width="33%">
       <h3><a href="https://github.com/CAVISE/CAVISE">CAVISE</a></h3>
-      <p>Connected & Automated Vehicle Integrated Simulation Environment. </p>
-      <p><strong>Language:</strong> Python</p>
     </td>
     <td width="33%">
       <h3><a href="https://github.com/CAVISE/OpenCDA">OpenCDA</a></h3>
-      <p>Framework for cooperative driving automation built on top of CARLA.</p>
-      <p><strong>Language:</strong> Python</p>
     </td>
     <td width="33%">
       <h3><a href="https://github.com/CAVISE/artery">Artery</a></h3>
-      <p>OMNeT++ V2X simulation framework.</p>
-      <p><strong>Language:</strong> C++</p>
+    </td>
+  </tr>
+
+  <tr align="center" valign="top">
+    <td width="33%">
+      Connected & Automated Vehicle Integrated Simulation Environment.
+    </td>
+    <td width="33%">
+      Framework for cooperative driving automation built on top of CARLA.
+    </td>
+    <td width="33%">
+      OMNeT++ V2X simulation framework.
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td width="33%">
+      <strong>Language:</strong> Python
+    </td>
+    <td width="33%">
+      <strong>Language:</strong> Python
+    </td>
+    <td width="33%">
+      <strong>Language:</strong> C++
     </td>
   </tr>
 </table>
