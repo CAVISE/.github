@@ -1,0 +1,85 @@
+name: Security task
+description: Track security hardening, dependency remediation, or automotive cybersecurity work
+title: "[Security]: "
+labels: ["security", "needs-triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this template for security hardening, dependency remediation, and automotive cybersecurity research tasks.
+
+        Do not disclose exploitable vulnerabilities, secrets, credentials, tokens, private keys, or sensitive infrastructure details in public issues.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Automotive cybersecurity
+        - Dependency vulnerability
+        - Secrets management
+        - CI/CD security
+        - Access control
+        - Input validation
+        - Supply chain security
+        - Documentation / policy
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      description: Use this for triage. Do not include exploit details in public issues.
+      options:
+        - Critical
+        - High
+        - Medium
+        - Low
+        - Informational
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Non-sensitive context
+      description: Provide non-sensitive context about the task, risk, or finding.
+      placeholder: "Describe the security concern without exposing exploitable details."
+    validations:
+      required: true
+
+  - type: textarea
+    id: remediation
+    attributes:
+      label: Proposed remediation or next step
+      description: What should be changed, reviewed, or investigated?
+    validations:
+      required: true
+
+  - type: textarea
+    id: affected_components
+    attributes:
+      label: Affected components
+      placeholder: |
+        Repository:
+        Component:
+        Dependency:
+        Workflow:
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: security_checks
+    attributes:
+      label: Security checklist
+      options:
+        - label: This issue does not disclose exploitable vulnerability details.
+          required: true
+        - label: This issue does not include secrets, credentials, tokens, or private keys.
+          required: true
+        - label: Sensitive details, if any, are handled through an approved private channel.
+          required: false
