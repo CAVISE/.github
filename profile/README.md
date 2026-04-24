@@ -12,8 +12,6 @@
 
 <br />
 
-### Connected & Automated Vehicle Integrated Simulation Environment
-
 [![GitHub](https://img.shields.io/badge/GitHub-CAVISE-181717?logo=github)](https://github.com/CAVISE)
 [![Simulation](https://img.shields.io/badge/Simulation-CARLA%20%7C%20Artery%20%7C%20OpenCDA-blue)](#)
 [![Focus](https://img.shields.io/badge/Focus-Connected%20%26%20Automated%20Vehicles-green)](#)
