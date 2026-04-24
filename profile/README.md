@@ -21,7 +21,5 @@
 
 ---
 
-<h1 align="center">About</h1>
-
 In progress...
 
