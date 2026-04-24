@@ -19,18 +19,6 @@
 [![Focus](https://img.shields.io/badge/Focus-Connected%20%26%20Automated%20Vehicles-green)](#)
 [![Workflow](https://img.shields.io/badge/Workflow-Reproducible%20Research-orange)](#)
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>Simulation</h3>
-      <p>Integrated environments for connected and automated vehicle experiments.</p>
-    </td>
-    <td width="50%" align="center">
-      <h3>Validation</h3>
-      <p>Workflows for evaluating autonomy, cooperation, traffic, and communication behavior.</p>
-    </td>
-  </tr>
-</table>
 
 </div>
 
