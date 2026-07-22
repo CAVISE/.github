@@ -15,7 +15,7 @@
 
 [![Stars](https://img.shields.io/github/stars/CAVISE/CAVISE?style=flat&label=Stars&logo=github)](https://github.com/CAVISE/CAVISE/stargazers)
 [![Issues](https://img.shields.io/github/issues/CAVISE/CAVISE?style=flat&label=Issues&logo=github)](https://github.com/CAVISE/CAVISE/issues)
-[![Docs](https://img.shields.io/badge/Docs-Documentation-blue?style=flat&logo=readthedocs)]()
+[![Docs](https://img.shields.io/badge/Docs-Documentation-blue?style=flat&logo=readthedocs)](https://cavise.github.io/Documentation/wiki/index.html)
 
 </div>
 
