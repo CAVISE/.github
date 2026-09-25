@@ -1,0 +1,42 @@
+name: Epic
+description: Track a large initiative spanning multiple related tasks
+title: "[Epic]: "
+labels: ["epic", "needs-triage"]
+assignees: []
+
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Goal
+      description: What outcome should this epic achieve, and why is it important?
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope
+      description: List the main deliverables or related tasks.
+      placeholder: |
+        - [ ] #123
+        - [ ] #124
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Completion criteria
+      description: How will we know this epic is complete?
+      placeholder: |
+        - [ ] Criterion 1
+        - [ ] Criterion 2
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Optional. Add dependencies, risks, references, or target dates.
